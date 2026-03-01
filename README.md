@@ -39,21 +39,15 @@
 
 ###
 
-
-## 🌐 Socials:
+📊 GitHub Stats:
 <p align="center">
-
-<a href="https://instagram.com/_arif.sakib_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/arif-uz-zaman-b3b930372/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ariftechspace@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ariftechspace&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+  <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ariftechspace&theme=shadow_green&hide_border=false" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariftechspace&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
 
 # 💻 Tech Stack:
 <br>
@@ -86,18 +80,22 @@
 
 </p>
 <br>
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariftechspace&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ariftechspace&theme=shadow_green&hide_border=false" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariftechspace&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ariftechspace&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ariftechspace&icon=0&color=3)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+<br>
+<p align="center">
+
+<a href="https://instagram.com/_arif.sakib_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/arif-uz-zaman-b3b930372/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ariftechspace@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
