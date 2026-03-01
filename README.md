@@ -6,7 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ariftechspace&label=Profile%20views&color=0e75b6&style=flat" alt="ariftechspace" /> </p>
 
 
-
+## 👨‍💻 About Me :
+ 
+I’m a recent Computer Science & Engineering graduate, currently exploring new technologies and building projects one step at a time. When I’m not coding, you’ll usually find me playing chess ♟️
+<br>
+<br>
 
 ## 🚀 Areas of Focus :
 
