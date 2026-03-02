@@ -32,7 +32,7 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ariftechspace&theme=blue-green&hide_border=false" style="display:block; margin:auto;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ariftechspace&theme=transparent&hide_border=false" style="display:block; margin:auto;" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
