@@ -31,11 +31,6 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
 ## 📊 GitHub Insights :
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ariftechspace&theme=gruvbox&hide_border=false" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
   <picture>
     <!-- Dark mode -->
     <source 
@@ -44,12 +39,12 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
     />
     <!-- Light mode -->
     <source 
-      srcset="https://streak-stats.demolab.com?user=ariftechspace&theme=default&hide_border=false" 
+      srcset="https://streak-stats.demolab.com?user=ariftechspace&theme=solarized-light&hide_border=false" 
       media="(prefers-color-scheme: light)" 
     />
     <!-- Fallback -->
     <img 
-      src="https://streak-stats.demolab.com?user=ariftechspace&theme=default&hide_border=false" 
+      src="https://streak-stats.demolab.com?user=ariftechspace&theme=solarized-light&hide_border=false" 
     />
   </picture>
 </p>
