@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Arif </h1>
 <h3 align="center">A passionate Full-Stack AI Engineer from Bangladesh</h3>
 <p align="center">
-  <a href="mailto:ariftechspace@gmail.com">
+  <a href="mailto:ariftechspace@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Arif,">
     <img src="https://img.shields.io/badge/ariftechspace@gmail.com-1f2937?style=flat&logo=gmail&logoColor=red"/>
   </a>
 </p>
