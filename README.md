@@ -39,12 +39,12 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
     />
     <!-- Light mode -->
     <source 
-      srcset="https://streak-stats.demolab.com?user=ariftechspace&theme=solarized-light&hide_border=false" 
+      srcset="https://streak-stats.demolab.com?user=ariftechspace&theme=graywhite&hide_border=false" 
       media="(prefers-color-scheme: light)" 
     />
     <!-- Fallback -->
     <img 
-      src="https://streak-stats.demolab.com?user=ariftechspace&theme=solarized-light&hide_border=false" 
+      src="https://streak-stats.demolab.com?user=ariftechspace&theme=graywhite&hide_border=false" 
     />
   </picture>
 </p>
