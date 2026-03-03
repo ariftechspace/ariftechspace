@@ -88,6 +88,5 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
 </a>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
