@@ -21,7 +21,7 @@ I’m a recent Computer Science & Engineering graduate, currently exploring new 
 
 🧠 DATA SCIENCE & MACHINE LEARNING |  📊 AI • ML • Deep Learning • Analytics 
 
-💻 FULL STACK DEVELOPER (MERN)     |  ⚛️ React • Node • Express • MongoDB 🌐
+💻 FULL STACK DEVELOPMENT (MERN)     |  ⚛️ React • Node • Express • MongoDB 🌐
 
 🧪 MANUAL & AUTOMATION TESTING     |  🔎 QA • Test Cases • Selenium • Bug Tracking
 
